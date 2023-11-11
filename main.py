@@ -11,7 +11,7 @@ PASSWORD = os.getenv('PASSWORD')
 RECEIVER_EMAIL = os.getenv('RECEIVER')
 
 
-amazon_url = "https://www.amazon.co.uk/Pok%C3%A9mon-Nintendo-Digital-Exclusive-Amazon-co-uk/dp/B0B2X4BMV2/ref=sr_1_1?keywords=pokemon+violet&qid=1664876065&qu=eyJxc2MiOiIxLjM3IiwicXNhIjoiMC42NCIsInFzcCI6IjAuMjIifQ%3D%3D&sprefix=pokemon+%2Caps%2C64&sr=8-1"
+amazon_url = "URL FOR AMAZON PRODUCT"
 headers = {
     "Accept-Language": "en-GB,en-US;q=0.9,en;q=0.8",
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
